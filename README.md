@@ -4,7 +4,7 @@ Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
 
-## DATE:
+
 
 # AIM:
 
